@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: black;
+    color: aliceblue;
+}
+
+.logo{
+    width: 150px;
+}
+
+.perfiles h1 {
+    margin-top: 10%;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.perfil {
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
